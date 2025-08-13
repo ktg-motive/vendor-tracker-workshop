@@ -1,0 +1,11 @@
+id,name,category,contact_email,phone,typical_delivery_days,preferred
+1,Coastal Seafood Supply,Seafood,orders@coastalseafood.com,251-555-0101,2,true
+2,Baker's Best Flour Co,Dry Goods,sales@bakersbest.com,251-555-0102,3,false
+3,Fresh Produce Express,Produce,fresh@produceexpress.com,251-555-0103,1,true
+4,Restaurant Depot Plus,Supplies,info@restaurantdepot.com,251-555-0104,5,false
+5,Gulf Coast Meats,Proteins,orders@gulfcoastmeats.com,251-555-0105,2,true
+6,Paper & Plastics Wholesale,Disposables,bulk@paperplastics.com,251-555-0106,4,false
+7,Bayou Beverages,Beverages,sales@bayoubev.com,251-555-0107,2,true
+8,Quality Kitchen Equipment,Equipment,support@qualitykitchen.com,251-555-0108,7,false
+9,Local Dairy Farms,Dairy,fresh@localdairy.com,251-555-0109,1,true
+10,Organic Gardens Co-op,Organic Produce,info@organicgardens.com,251-555-0110,2,false
